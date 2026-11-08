@@ -1,28 +1,94 @@
+<div align="center">
+
 [![Youssef's GitHub Banner](./Yy.png)](https://github.com/LoneWolf-84/)
-<h1 align="center">Hi 👋, I'm Youssef Ibrahim</h1>
-<h3 align="center">A passionate Flutter, Back-End Dev & Security Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lonewolf-84&label=Profile%20views&color=0e75b6&style=flat" alt="lonewolf-84" /> </p>
+# Youssef Ibrahim
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lonewolf-84" alt="lonewolf-84" /></a> </p>
+### Software Engineer | Founder of Cyber Astra
 
-<p align="left"> <a href="https://twitter.com/youssef65862774" target="blank"><img src="https://img.shields.io/twitter/follow/youssef65862774?logo=twitter&style=for-the-badge" alt="youssef65862774" /></a> </p>
+**Building technology that makes digital trust more transparent.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LoneWolf-84/](https://github.com/LoneWolf-84/)
+[![GitHub](https://img.shields.io/badge/GitHub-LoneWolf--84-181717?style=for-the-badge&logo=github)](https://github.com/LoneWolf-84)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/youssef-ibrahim-a07427195)
+![Profile Views](https://komarev.com/ghpvc/?username=LoneWolf-84&color=blueviolet&style=for-the-badge)
 
-- 📫 How to reach me **youssefibrahim206@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/youssef65862774" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="youssef65862774" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/youssef-ibrahim-a07427195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef-ibrahim-a07427195" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12488197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12488197" height="30" width="40" /></a>
-<a href="https://fb.com/youssef4a6f6f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="youssef4a6f6f" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+## About Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lonewolf-84&show_icons=true&locale=en&layout=compact" alt="lonewolf-84" /></p>
+I'm a software engineer with a background in backend development, mobile applications, networking, and cybersecurity.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lonewolf-84&" alt="lonewolf-84" /></p>
+My interests extend beyond writing code to building products, designing scalable systems, and solving real-world problems.
+
+Currently, I'm developing **Cyber Astra**, a platform focused on transparency, customer experiences, and business reputation.
+
+My approach combines technical engineering, product strategy, and business-oriented thinking.
+
+## Featured Project
+
+### Cyber Astra
+
+**A Trust & Reputation Platform for Businesses and Consumers**
+
+Cyber Astra is a review and reputation platform designed to connect consumers with businesses through transparent customer feedback, initially focused on Egypt and the GCC markets.
+
+**Core Product Goals**
+- Transparent customer reviews
+- Server-authoritative reputation scoring
+- Business profile management
+- Review moderation and fraud prevention
+- Business analytics
+- Arabic and English support
+- Subscription-based business services
+
+**Development Status:** Active Development
+
+**Website:** [cyber-astra.tech](https://cyber-astra.tech) *(public launch pending)*
+
+[Explore Cyber Astra on GitHub](https://github.com/LoneWolf-84/cyber-astra) *(repository may be private)*
+
+## Technical Background
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+## Areas of Interest
+
+Software Architecture · Backend Engineering · Mobile Development · Cybersecurity · Networking & Infrastructure · SaaS Product Development · Business Strategy
+
+## GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoneWolf-84&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LoneWolf-84&layout=compact&theme=github_dark)
+
+</div>
+
+## Connect
+
+**LinkedIn:** [Youssef Ibrahim](https://linkedin.com/in/youssef-ibrahim-a07427195)
+
+**GitHub:** [LoneWolf-84](https://github.com/LoneWolf-84)
+
+---
+
+<div align="center">
+
+### Engineering Products. Building Trust. Creating Impact.
+
+**Cyber Astra — Under Development**
+
+</div>
