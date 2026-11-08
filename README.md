@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Youssef's GitHub Banner](./Yy.png)](https://github.com/LoneWolf-84/)
+<a href="https://github.com/LoneWolf-84/"><img src="./Yy.png" alt="Youssef GitHub banner" width="650" /></a>
 
 # Youssef Ibrahim
 
@@ -65,16 +65,6 @@ Cyber Astra is a review and reputation platform designed to connect consumers wi
 ## Areas of Interest
 
 Software Architecture · Backend Engineering · Mobile Development · Cybersecurity · Networking & Infrastructure · SaaS Product Development · Business Strategy
-
-## GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoneWolf-84&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LoneWolf-84&layout=compact&theme=github_dark)
-
-</div>
 
 ## Connect
 
