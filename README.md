@@ -10,7 +10,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-LoneWolf--84-181717?style=for-the-badge&logo=github)](https://github.com/LoneWolf-84)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/youssefibrahim8/)
-![Profile Views](https://komarev.com/ghpvc/?username=LoneWolf-84&color=blueviolet&style=for-the-badge)
 
 </div>
 
